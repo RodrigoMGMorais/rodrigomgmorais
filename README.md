@@ -5,11 +5,11 @@ Sou Analista Pleno com algum conhecimento e sempre aprendendo!
 Analista de Suporte & Sistemas Tier 1/2 | Infra/TI/Telecom | CRM, Multi Lane Free-Flow, BackOffice & Toll.
 
 ### 🛠️ HABILIDADES TÉCNICAS
-- Infraestrutura & Redes: Switches, Routers, Modems, VPN, Links Dedicados, CFTV, Telefonia IP, Audiocodes.
-- Sistemas & SO: Windows, Linux, Active Directory, DHCP, DNS.
-- Dados & Monitoramento: SQL, Grafana, Prometheus, Power BI, Python. API Rest.
-- Cloud & DevOps: Azure (AZ-900), Cloud fundamentals, ITIL, COBIT, Scrum.
-- Aplicações Corporativas: Office 365, Ferramentas ITSM, Documentação Técnica.
+- Infraestrutura & Redes: | Switches, Routers, Modems, VPN, Links Dedicados, CFTV, Telefonia IP, Audiocodes.
+- Sistemas & SO:          | Windows, Linux, Active Directory, DHCP, DNS.
+- Dados & Monitoramento:  |SQL, Grafana, Prometheus, Power BI, Python. API Rest.
+- Cloud & DevOps:         | Azure (AZ-900), Cloud fundamentals, ITIL, COBIT, Scrum.
+- Aplicações Corporativas:|Office 365, Ferramentas ITSM, Documentação Técnica.
 - Idiomas: Espanhol (C2 fluente) · Inglês (B1+ intermediário).
 
 ### 🎓 FORMAÇÃO ACADÊMICA
