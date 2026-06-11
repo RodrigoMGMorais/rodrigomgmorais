@@ -1,8 +1,8 @@
 # Olá, eu sou o Rodrigo Morais 👋
 
 ### 🚀 Sobre mim
-Sou Analista Pleno com algum conhecimento e sempre aprendendo!
-Analista de Suporte & Sistemas Tier 1/2 | Infra/TI/Telecom | CRM, Multi Lane Free-Flow, BackOffice & Toll.
+- Sou Analista Pleno com algum conhecimento e sempre aprendendo!
+- Analista de Suporte & Sistemas Tier 1/2 | Infra/TI/Telecom | CRM, Multi Lane Free-Flow, BackOffice & Toll.
 
 ### 🛠️ HABILIDADES TÉCNICAS
 - Infraestrutura & Redes:  |  Switches, Routers, Modems, VPN, Links Dedicados, CFTV, Telefonia IP, Audiocodes.
