@@ -19,12 +19,12 @@ Graduação Redes de Computadores	                                 Conclusão: D
 Técnico em Telecomunicações	                                     Conclusão: Dez/2002 Escola Oswaldo Cruz
 
 ### 🏆 CERTIFICAÇÕES
-AZ-900: Microsoft Azure Fundamentals	                           Mar/2022 Microsoft | ID: 994554692
-Scrum Fundamentals Certified	                                   Jun/2022 SCRUMstudy | ID: 919558
-Python Essentials 1                                              Ago/2023 Cisco Networking Academy 
-Introduction to Cybersecurity                                    Ago/2023 Cisco Networking Academy
-Linux Unhatched                                                  Jun/2026 Cisco Networking Academy
-English for IT 1                                                 Jun/2026 Cisco Networking Academy
+- AZ-900: Microsoft Azure Fundamentals	                           Mar/2022 Microsoft | ID: 994554692
+- Scrum Fundamentals Certified	                                   Jun/2022 SCRUMstudy | ID: 919558
+- Python Essentials 1                                              Ago/2023 Cisco Networking Academy 
+- Introduction to Cybersecurity                                    Ago/2023 Cisco Networking Academy
+- Linux Unhatched                                                  Jun/2026 Cisco Networking Academy
+- English for IT 1                                                 Jun/2026 Cisco Networking Academy
 
 ### 📌 Projetos Técnicos em Destaque
 *(Em breve: Projetos reais documentados de IaC, Pipelines de Dados e Dashboards de Observabilidade)*
