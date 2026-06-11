@@ -13,10 +13,10 @@ Analista de Suporte & Sistemas Tier 1/2 | Infra/TI/Telecom | CRM, Multi Lane Fre
 - Idiomas: Espanhol (C2 fluente) · Inglês (B1+ intermediário).
 
 ### 🎓 FORMAÇÃO ACADÊMICA
-- **Pós-Graduação em Análise de Projeto de Sistemas	                 Conclusão: Set/2025 Facuminas (EAD)
-Pós-Graduação em Inteligência Artificial	                       Conclusão: Set/2025 Facuminas (EAD)
-Graduação Redes de Computadores	                                 Conclusão: Dez/2004 Flamingo / CATEC
-Técnico em Telecomunicações	                                     Conclusão: Dez/2002 Escola Oswaldo Cruz
+- **Pós-Graduação em Análise de Projeto de Sistemas	   |     Conclusão: Set/2025 Facuminas (EAD)
+- **Pós-Graduação em Inteligência Artificial	         |     Conclusão: Set/2025 Facuminas (EAD)
+- **Graduação Redes de Computadores	                   |     Conclusão: Dez/2004 Flamingo / CATEC
+- **Técnico em Telecomunicações	                       |     Conclusão: Dez/2002 Escola Oswaldo Cruz
 
 ### 🏆 CERTIFICAÇÕES
 - AZ-900: Microsoft Azure Fundamentals	                           Mar/2022 Microsoft | ID: 994554692
