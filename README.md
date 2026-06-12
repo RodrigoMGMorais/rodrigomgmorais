@@ -29,6 +29,7 @@
 - Introduction to Cybersecurity             |        Ago/2023 Cisco Networking Academy
 - Linux Unhatched                           |        Jun/2026 Cisco Networking Academy
 - English for IT 1                          |        Jun/2026 Cisco Networking Academy
+- Kanban Essentials with AI Certified:      |        Jun/2026 Kanbanstudy | ID: 1170648
 
 ### 📌 Projetos Técnicos em Destaque
 *(Em breve: Projetos reais documentados de IaC, Pipelines de Dados e Dashboards de Observabilidade)*
