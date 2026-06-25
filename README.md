@@ -9,7 +9,7 @@
 - Infraestrutura & Redes:  |  Switches, Routers, Modems, VPN, Links Dedicados, CFTV, Telefonia IP, Audiocodes.
 - Sistemas & SO:           |  Windows, Linux, Active Directory, DHCP, DNS.
 - Dados & Monitoramento:   |  SQL, Grafana, Prometheus, Power BI, Python. API Rest.
-- Cloud & DevOps:          |  Azure (AZ-900), Cloud fundamentals, ITIL, COBIT, Scrum.
+- Cloud/DevOps & Governança:| Microsoft Azure (AZ-900),Terraform, IaC, ITIL 4, COBIT, Scrum, Kanban, GitHub
 - Aplicações Corporativas: |  Office 365, Ferramentas ITSM, Documentação Técnica.
 - Sistemas conjugados MLFF |  Toll, Roadside, Back Office, DFE, CRM.
 
