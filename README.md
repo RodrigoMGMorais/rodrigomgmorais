@@ -1,4 +1,4 @@
-# Olá, eu sou o Rodrigo Morais 👋
+# Olá, eu sou o Rodrigo Mendonça G. de Morais 👋
 
 ### 🚀 Sobre mim
 - Sou Analista Pleno com algum conhecimento e sempre aprendendo!
