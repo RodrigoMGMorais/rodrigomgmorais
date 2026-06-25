@@ -22,7 +22,7 @@
 - **Pós-Graduação em Inteligência Artificial	         |     Conclusão: Set/2025 Facuminas (EAD)
 - **Graduação Redes de Computadores	                   |     Conclusão: Dez/2004 Flamingo / CATEC
 - **Técnico em Telecomunicações	                       |     Conclusão: Dez/2002 Escola Oswaldo Cruz
-- **BIG DATA E CLOUD COMPUTING | Estudando...
+- **Pós-Graduação em BIG DATA E CLOUD COMPUTING        | Estudando...
 
 ### 🏆 CERTIFICAÇÕES
 - AZ-900: Microsoft Azure Fundamentals	    |        Mar/2022 Microsoft | ID: 994554692
