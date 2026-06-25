@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre mim
 - Sou Analista Pleno com algum conhecimento e sempre aprendendo!
-- Analista de Suporte & Sistemas Tier 1/2 | Infra/TI/Telecom | CRM, Multi Lane Free-Flow, BackOffice & Toll.
+- Analista de Suporte & Sistemas Pleno | Infrastructure & Data Systems | Multi Lane Free-Flow • CRM • BackOffice ITS & Toll | Especialista em Atendimento Técnico Avançado (L1/L2).
 - linkedin.com/in/rodrigomgmorais
 
 ### 🛠️ HABILIDADES TÉCNICAS
