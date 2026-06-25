@@ -15,7 +15,7 @@
 
 ### ✔️ IDIOMAS:
 - Espanhol (C2 fluente)
-- Inglês (B1+ intermediário).
+- Inglês (B1+ intermediário) = Studying...
 
 ### 🎓 FORMAÇÃO ACADÊMICA
 - **Pós-Graduação em Análise de Projeto de Sistemas	   |     Conclusão: Set/2025 Facuminas (EAD)
