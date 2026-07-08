@@ -2,7 +2,9 @@
 
 ### 🚀 Sobre mim
 - Sou Analista Pleno com algum conhecimento e sempre aprendendo!
-- Analista de Suporte & Sistemas Pleno | Infrastructure & Data Systems | Multi Lane Free-Flow • CRM • BackOffice ITS & Toll | Especialista em Atendimento Técnico Avançado (L1/L2)| Especialista em sistemas MLFF.
+- Analista de Suporte & Sistemas Pleno | Infrastructure & Data Systems • CRM • ITSM • BackOffice ITS & Toll.
+- Especialista em Atendimento Técnico Avançado (L1/L2), Customer Care & B2B.
+- Especialista em Sistemas MLFF.
 - linkedin.com/in/rodrigomgmorais
 
 ### 🛠️ HABILIDADES TÉCNICAS
