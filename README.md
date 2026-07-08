@@ -8,8 +8,8 @@
 ### 🛠️ HABILIDADES TÉCNICAS
 - Infraestrutura & Redes:  |  Switches, Routers, Modems, VPN, Links Dedicados, CFTV, Telefonia IP, Audiocodes.
 - Sistemas & SO:           |  Windows, Linux, Active Directory, DHCP, DNS.
-- Dados & Monitoramento:   |  SQL, Grafana, Prometheus, Power BI, Python. API Rest.
-- Cloud/DevOps & Governança: | Microsoft Azure (AZ-900),Terraform, IaC, ITIL 4, COBIT, Scrum, Kanban, GitHub
+- Dados & Monitoramento:   |  SQL, Grafana, Prometheus, Power BI, Python. API Rest, Postman.
+- Cloud/DevOps & Governança: | Microsoft Azure (AZ-900),Terraform, IaC, ITIL 4, COBIT, Scrum, Kanban, GitHub, Jira, Confluence.
 - Aplicações Corporativas: |  Office 365, Ferramentas ITSM, Documentação Técnica.
 - Sistemas conjugados MLFF |  Toll, Roadside, Back Office, DFE, CRM.
 
@@ -22,7 +22,7 @@
 - **Pós-Graduação em Inteligência Artificial	         |     Conclusão: Set/2025 Facuminas (EAD)
 - **Graduação Redes de Computadores	                   |     Conclusão: Dez/2004 Flamingo / CATEC
 - **Técnico em Telecomunicações	                       |     Conclusão: Dez/2002 Escola Oswaldo Cruz
-- **Pós-Graduação em BIG DATA E CLOUD COMPUTING        | Estudando...
+- **Pós-Graduação em BIG DATA E CLOUD COMPUTING        |     Estudando...
 
 ### 🏆 CERTIFICAÇÕES
 - AZ-900: Microsoft Azure Fundamentals	    |        Mar/2022 Microsoft | ID: 994554692
@@ -32,9 +32,10 @@
 - Linux Unhatched                           |        Jun/2026 Cisco Networking Academy
 - English for IT 1                          |        Jun/2026 Cisco Networking Academy
 - Kanban Essentials with AI Certified:      |        Jun/2026 Kanbanstudy | ID: 1170648
+- Career Essentials in Generative AI by Microsoft and LinkedIn | Jul/2026 Linkedin Learning & Microsoft
 
 ### 📌 Projetos Técnicos em Destaque
-*(Em breve: Projetos reais documentados de IaC, Pipelines de Dados e Dashboards de Observabilidade)*
+*Veja meus Repositórios*
 
 ---
 🛸 *Focado na evolução constante de arquiteturas modernas para transformar dados brutos em inteligência operacional estável.*
