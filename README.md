@@ -8,7 +8,7 @@
 - Especialista em Sistemas MLFF.
 - Gestão de SLA´s & KPI´s.
 - linkedin.com/in/rodrigomgmorais
-[Texto que será exibido](https://www.google.com)
+[Linkedin](https://www.linkedin.com/in/rodrigomgmorais/?skipRedirect=true)
 
 ### 🛠️ HABILIDADES TÉCNICAS
 - Infraestrutura & Redes:    |  Switches, Routers, Modems, VPN, Links Dedicados, CFTV, Telefonia IP, Audiocodes.
