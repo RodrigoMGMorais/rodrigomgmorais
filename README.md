@@ -1,7 +1,7 @@
 # Olá, eu sou o Rodrigo Mendonça G. de Morais 👋
 
 ### 🚀 Sobre mim
-Sou Analista Pleno com algum conhecimento e sempre aprendendo!!!
+⭐ Sou Analista Pleno com algum conhecimento e sempre aprendendo!!!
 
 - Analista de Suporte & Sistemas Pleno | Infrastructure & Data Systems • CRM • ITSM • BackOffice ITS & Toll.
 - Especialista em Atendimento Técnico Avançado (L1/L2), Customer Care & B2B.
