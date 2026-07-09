@@ -7,7 +7,7 @@
 - Especialista em Atendimento Técnico Avançado (L1/L2), Customer Care & B2B.
 - Especialista em Sistemas MLFF.
 - Gestão de SLA´s & KPI´s.
-- Linkedin (https://www.linkedin.com/in/rodrigomgmorais/?skipRedirect=true)
+- [Meu Perfil do Linkedin](https://www.linkedin.com/in/rodrigomgmorais/?skipRedirect=true)
 
 ### 🛠️ HABILIDADES TÉCNICAS
 - Infraestrutura & Redes:    |  Switches, Routers, Modems, VPN, Links Dedicados, CFTV, Telefonia IP, Audiocodes.
