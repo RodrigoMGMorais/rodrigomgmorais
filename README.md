@@ -12,7 +12,7 @@
 ### 🛠️ HABILIDADES TÉCNICAS
 - Infraestrutura & Redes:    |  Switches, Routers, Modems, VPN, Links Dedicados, CFTV, Telefonia IP, Audiocodes.
 - Sistemas & SO:             |  Windows, Linux, AD, DHCP, DNS.
-- Dados & Observabilidade:   |  SQL, Grafana, Icinga, Prometheus, Power BI, Python, API Rest, Postman.
+- Dados & Observabilidade:   |  SQL, Grafana, Icinga, Prometheus, Power BI, Python, API Rest, Postman, Customer Success.
 - Cloud/DevOps & Governança: |  Azure (AZ-900),Terraform/IaC, ITIL, COBIT, Scrum, Kanban, IA/Prompting, GitHub, Jira, Confluence.
 - Aplicações Corporativas:   |  Office 365, Ferramentas ITSM, Documentação Técnica.
 - Sistemas conjugados MLFF   |  Toll, Roadside, Back Office, DFE, IFX,CRM.
