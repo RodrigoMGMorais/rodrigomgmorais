@@ -10,12 +10,11 @@
 - [Meu Perfil do Linkedin](https://www.linkedin.com/in/rodrigomgmorais/?skipRedirect=true)
 
 ### 🛠️ HABILIDADES TÉCNICAS
-- Infraestrutura & Redes:    |  Switches, Routers, Modems, VPN, Links Dedicados, CFTV, Telefonia IP, Audiocodes.
-- Sistemas & SO:             |  Windows, Linux, AD, DHCP, DNS.
-- Dados & Observabilidade:   |  SQL, Grafana, Icinga, Prometheus, Power BI, Python, API Rest, Postman, Customer Success.
-- Cloud/DevOps & Governança: |  Azure (AZ-900),Terraform/IaC, ITIL, COBIT, Scrum, Kanban, IA/Prompting, GitHub, Jira, Confluence.
-- Aplicações Corporativas:   |  Office 365, Ferramentas ITSM, Documentação Técnica.
-- Sistemas conjugados MLFF   |  Toll, Roadside, Back Office, DFE, IFX,CRM.
+Sustentação & ITSM: Suporte N1/N2/N3, Gestão de Incidentes e Problemas, Controle de SLAs/KPIs, ITIL v4, Jira Service Management, Confluence, Service Desk, Customer Success Técnico.
+Monitoramento & Dados: Grafana, Prometheus, Icinga, SQL (Consultas e Análise de Logs), Power BI, APIs REST, Postman, Python.
+Sistemas & Cloud: Linux, Windows Server, Active Directory, DNS, DHCP, Microsoft Azure (AZ-900), Terraform, Docker/Contêineres, SaaS.
+Infraestrutura & Telecom: Redes TCP/IP, Roteadores/Switches, VPNs, Links Dedicados B2B, CFTV, Redes Ópticas, Sistemas de Missão Crítica (Free-Flow / ITS).
+Idiomas: Português (Nativo) | Espanhol (C2 – Fluência Profissional / Produção Oral e Escrita) | Inglês (B1+ - Comunicação Técnica e Corporativa).
 
 ### ✔️ IDIOMAS:
 - Espanhol (C2 fluente)
