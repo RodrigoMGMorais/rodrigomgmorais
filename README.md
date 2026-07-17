@@ -10,11 +10,11 @@
 - [Meu Perfil do Linkedin](https://www.linkedin.com/in/rodrigomgmorais/?skipRedirect=true)
 
 ### 🛠️ HABILIDADES TÉCNICAS
-Sustentação & ITSM: Suporte N1/N2/N3, Gestão de Incidentes e Problemas, Controle de SLAs/KPIs, ITIL v4, Jira Service Management, Confluence, Service Desk, Customer Success Técnico.
-Monitoramento & Dados: Grafana, Prometheus, Icinga, SQL (Consultas e Análise de Logs), Power BI, APIs REST, Postman, Python.
-Sistemas & Cloud: Linux, Windows Server, Active Directory, DNS, DHCP, Microsoft Azure (AZ-900), Terraform, Docker/Contêineres, SaaS.
-Infraestrutura & Telecom: Redes TCP/IP, Roteadores/Switches, VPNs, Links Dedicados B2B, CFTV, Redes Ópticas, Sistemas de Missão Crítica (Free-Flow / ITS).
-Idiomas: Português (Nativo) | Espanhol (C2 – Fluência Profissional / Produção Oral e Escrita) | Inglês (B1+ - Comunicação Técnica e Corporativa).
+- **Sustentação & ITSM:** Suporte N1/N2/N3, Gestão de Incidentes e Problemas, Controle de SLAs/KPIs, ITIL v4, Jira Service Management, Confluence, Service Desk, Customer Success Técnico.<br>
+- **Monitoramento & Dados:** Grafana, Prometheus, Icinga, SQL (Consultas e Análise de Logs), Power BI, APIs REST, Postman, Python.<br>
+- Sistemas & Cloud: Linux, Windows Server, Active Directory, DNS, DHCP, Microsoft Azure (AZ-900), Terraform, Docker/Contêineres, SaaS.<br>
+- **Infraestrutura & Telecom:** Redes TCP/IP, Roteadores/Switches, VPNs, Links Dedicados B2B, CFTV, Redes Ópticas, Sistemas de Missão Crítica (Free-Flow / ITS).<br>
+- **Idiomas:** Português (Nativo) | Espanhol (C2 – Fluência Profissional / Produção Oral e Escrita) | Inglês (B1+ - Comunicação Técnica e Corporativa).
 
 ### ✔️ IDIOMAS:
 - Espanhol (C2 fluente)
