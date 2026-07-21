@@ -37,6 +37,13 @@
 - Kanban Essentials with AI Certified:                         | Jun/2026 Kanbanstudy | ID: 1170648
 - Career Essentials in Generative AI by Microsoft and LinkedIn | Jul/2026 Linkedin Learning & Microsoft
 
+Com mais de 20 anos de trajetória profissional em Tecnologia da Informação e Telecomunicações, possuo sólida maturidade na Sustentação N2 de sistemas de missão crítica (Free-Flow / MLFF) em grandes players multinacionais, como Kapsch TrafficCom Brasil, Algar e Schneider Electric.
+
+Minha atuação é fortemente orientada à Gestão de Incidentes e Problemas (ITIL v4), análise avançada de logs e banco de dados (SQL, consultas complexas e troubleshooting) e diagnóstico preciso de causa raiz (root cause). Possuo vivência diária na administração de ambientes híbridos (Linux, Windows Server e Microsoft Azure) e no monitoramento de observabilidade em tempo real com Grafana, Zabbix, Icinga e OpenLens, assegurando o cumprimento rigoroso de SLAs e KPIs de alta disponibilidade.
+
+Como profissional bilíngue (Espanhol Fluente C2 / Inglês Técnico B1+), possuo facilidade em comunicação corporativa B2B para atuação em times globais e mediação de chamados complexos. Minha abordagem une postura Customer-Centric, Customer Success Técnico e compromisso com a experiência do cliente (Customer Experience / CX), mantendo alta eficiência na resolução de crises sob pressão.
+
+
 ### 📌 Projetos Técnicos em Destaque:
 *Veja meus Repositórios*
 
