@@ -37,11 +37,19 @@
 - Kanban Essentials with AI Certified:                         | Jun/2026 Kanbanstudy | ID: 1170648
 - Career Essentials in Generative AI by Microsoft and LinkedIn | Jul/2026 Linkedin Learning & Microsoft
 
-Com mais de 20 anos de trajetória profissional em Tecnologia da Informação e Telecomunicações, possuo sólida maturidade na Sustentação N2 de sistemas de missão crítica (Free-Flow / MLFF) em grandes players multinacionais, como Kapsch TrafficCom Brasil, Algar e Schneider Electric.
+🚀 Nos últimos 2,7 anos, me especializei em ITS TOLL E AMBIENTE DE PEDÁGO ELETRÔNICO DE ALTA CRITICIDADE
+Sustentação e gestão de Sistems MLFF (Multi-Lane Free-Flow) RSS/CRM/IFX/CBO/BackOffice & Mensageria  	
+Implantação, Manutenção e Gerenciamento.
 
-Minha atuação é fortemente orientada à Gestão de Incidentes e Problemas (ITIL v4), análise avançada de logs e banco de dados (SQL, consultas complexas e troubleshooting) e diagnóstico preciso de causa raiz (root cause). Possuo vivência diária na administração de ambientes híbridos (Linux, Windows Server e Microsoft Azure) e no monitoramento de observabilidade em tempo real com Grafana, Zabbix, Icinga e OpenLens, assegurando o cumprimento rigoroso de SLAs e KPIs de alta disponibilidade.
-
-Como profissional bilíngue (Espanhol Fluente C2 / Inglês Técnico B1+), possuo facilidade em comunicação corporativa B2B para atuação em times globais e mediação de chamados complexos. Minha abordagem une postura Customer-Centric, Customer Success Técnico e compromisso com a experiência do cliente (Customer Experience / CX), mantendo alta eficiência na resolução de crises sob pressão.
+🎯 RESUMO PROFISSIONAL
+Analista de Sistemas e Suporte Técnico Pleno com mais de 18 anos de trajetória sólida em infraestrutura corporativa Especialista em Suporte N1/N2 Projetos LATAM e Multinacionais
+Especialista em Atenção ao Cliente e visão estratégica de Customer Success e Experience Técnico
+Especialista em Gestão de incidentes SLAs/KPIs e ambientes operacionais de missão crítica
+Espanhol Fluente e Inglês B1+
+Conhecimentos Plenos em Telecom e gestão de clientes B2B
+Atuação em Sustentação de Aplicações B2B e SaaS
+Monitoramento contínuo, Banco de Dados e governança ITSM/ITIL/COBIT/Scrum/Kanban
+Pós-graduado em IA e Análise de Projetos de Sistemas, combinando profundo conhecimento operacional
 
 
 ### 📌 Projetos Técnicos em Destaque:
