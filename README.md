@@ -46,6 +46,7 @@ Pós-graduado em IA e Análise de Projetos de Sistemas, combinando profundo conh
 - English for IT 1                                             | Jun/2026 Cisco Networking Academy
 - Kanban Essentials with AI Certified:                         | Jun/2026 Kanbanstudy | ID: 1170648
 - Career Essentials in Generative AI by Microsoft and LinkedIn | Jul/2026 Linkedin Learning & Microsoft
+- API Beginner Path                                            |Jul/2026 Postman Academy
 
 
 
