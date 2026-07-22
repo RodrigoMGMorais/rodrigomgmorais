@@ -3,10 +3,20 @@
 ### 🚀 Sobre mim
 ⭐ Sou Analista Pleno com algum conhecimento e sempre aprendendo!!!
 
-- Analista de Suporte & Sistemas Pleno | Infrastructure & Data Systems • CRM • ITSM • BackOffice ITS & Toll.
-- Especialista em Atendimento Técnico Avançado (L1/L2), Customer Care & B2B.
-- Especialista em Sistemas MLFF.
-- Gestão de SLA´s & KPI´s.
+🚀 Nos últimos 2,7 anos, me especializei em ITS TOLL E AMBIENTE DE PEDÁGO ELETRÔNICO DE ALTA CRITICIDADE
+Sustentação e gestão de Sistems MLFF (Multi-Lane Free-Flow) RSS/CRM/IFX/CBO/BackOffice & Mensageria  	
+Implantação, Manutenção e Gerenciamento.
+
+🎯 RESUMO PROFISSIONAL
+Analista de Sistemas e Suporte Técnico Pleno com mais de 18 anos de trajetória sólida em infraestrutura corporativa Especialista em Suporte N1/N2 Projetos LATAM e Multinacionais
+Especialista em Atenção ao Cliente e visão estratégica de Customer Success e Experience Técnico
+Especialista em Gestão de incidentes SLAs/KPIs e ambientes operacionais de missão crítica
+Espanhol Fluente e Inglês B1+
+Conhecimentos Plenos em Telecom e gestão de clientes B2B
+Atuação em Sustentação de Aplicações B2B e SaaS
+Monitoramento contínuo, Banco de Dados e governança ITSM/ITIL/COBIT/Scrum/Kanban
+Pós-graduado em IA e Análise de Projetos de Sistemas, combinando profundo conhecimento operacional
+
 - [Meu Perfil do Linkedin](https://www.linkedin.com/in/rodrigomgmorais/?skipRedirect=true)
 
 ### 🛠️ HABILIDADES TÉCNICAS
@@ -37,19 +47,7 @@
 - Kanban Essentials with AI Certified:                         | Jun/2026 Kanbanstudy | ID: 1170648
 - Career Essentials in Generative AI by Microsoft and LinkedIn | Jul/2026 Linkedin Learning & Microsoft
 
-🚀 Nos últimos 2,7 anos, me especializei em ITS TOLL E AMBIENTE DE PEDÁGO ELETRÔNICO DE ALTA CRITICIDADE
-Sustentação e gestão de Sistems MLFF (Multi-Lane Free-Flow) RSS/CRM/IFX/CBO/BackOffice & Mensageria  	
-Implantação, Manutenção e Gerenciamento.
 
-🎯 RESUMO PROFISSIONAL
-Analista de Sistemas e Suporte Técnico Pleno com mais de 18 anos de trajetória sólida em infraestrutura corporativa Especialista em Suporte N1/N2 Projetos LATAM e Multinacionais
-Especialista em Atenção ao Cliente e visão estratégica de Customer Success e Experience Técnico
-Especialista em Gestão de incidentes SLAs/KPIs e ambientes operacionais de missão crítica
-Espanhol Fluente e Inglês B1+
-Conhecimentos Plenos em Telecom e gestão de clientes B2B
-Atuação em Sustentação de Aplicações B2B e SaaS
-Monitoramento contínuo, Banco de Dados e governança ITSM/ITIL/COBIT/Scrum/Kanban
-Pós-graduado em IA e Análise de Projetos de Sistemas, combinando profundo conhecimento operacional
 
 
 ### 📌 Projetos Técnicos em Destaque:
